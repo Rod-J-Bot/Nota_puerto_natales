@@ -2,20 +2,16 @@
 title: "Finalización de actividades de terreno Campaña 2023 Proyecto Desempeño Ambiental de la Acuicultura en Chile y sus efectos en los ecosistemas de emplazamiento"
 ---
 
-
 ### Rodrigo Jaramillo^1^, Johana Ojeda ^1^, Marcela Toro ^2^, Miguel Vergara ^2^
 
 ^1^Instituto de Fomento Pesquero, Balmaceda 252 Puerto Montt
 
 ^2^ Instituto de Fomento Pesquero, Ten Ten s/n Putemun, Castro
 
-
-:::Justify
-
+::: Justify
 Dentro del marco del proyecto de Evaluación Ambiental de la Acuicultura en Chile y sus Impactos en los Ecosistemas de Emplazamiento, se llevó a cabo la ultima parte de las actividades de terreno correspondientes al área comprendida de golfo almirante Montt.
 
 En esta ocasión, el equipo de trabajo del crucero se enriqueció con la colaboración de investigadores del proyecto "Monitoreo y Modelación de la Variabilidad Espacial y Temporal de Procesos Oceanográficos en Canales y Fiordos Australes" desde la sede en Putemún. Juntos, llevaron a cabo actividades conjuntas de apoyo y operaciones en la cubierta del barco. Este equipo estuvo compuesto por los biólogos marinos Johana Ojeda y Rodrigo Jaramillo, así como por la oceanógrafa Marcela Toro y Miguel Vergara. Además, en las operaciones de cubierta se contó con la colaboración de 3 miembros de la tripulación del L/M "Don Antonio" de 34 TRG.
-
 
 ## Descripción del Área de Golfo Almirante Montt
 
@@ -31,7 +27,6 @@ Estero Worsley: Al noroeste del golfo se encuentra el estero Worsley, que contri
 
 Canal Kirke: La navegación por este canal-angostura que comunica el área de los canales con las aguas provenientes del océano pacifico, es de navegación desafiante y técnica debido a las mareas y las corrientes las cuales se estiman en alcanzan normalmente de 8 a 10 nudos de intensidad máxima. Cabe recordar que el nombre de este canal proviene de las primeras prospecciones oceanográficas realizadas en la zona por el Capitán británico Pringle Stokes en la embarcación Beagle.
 
-
 ## Actividades del crucero
 
 En esta ocasión, se llevó a cabo un recorrido que abarcó muestreos en 39 puntos con equipo CTD y 19 puntos de recolección de muestras de sedimentos utilizando draga van Veen. Estos muestreos son esenciales para comprender la dinámica química y biológica del área, así como para evaluar la salud del ecosistema marino. De manera significativa, se dedicaron 11 puntos específicos a la prospección de sedimentos, con el propósito de explorar áreas previamente menos estudiadas. También se realizó la inspección de la estación meteorológica instalada en la zona de Puerto Natales, la cual entrega información en línea para el proyecto Chonos.
@@ -41,9 +36,42 @@ Estas acciones se realizaron en cumplimiento de los objetivos de ambos proyectos
 En toda el área de movimientos terrestre y marítimo se realizaron observaciones de mamíferos y aves patagónicos tales como: Guanacos (Lama guanicoe), Ñandues (Rhea pennata), caiquenes (Chloephaga picta) zorros (Lycalopex culpaeus), armadillos (Chaetophractus villosus), Flamencos (Phoenicopterus chilensis), mofeta patagonica (Conepatus humboldtii), condores (Vultur gryphus), Patos Quetros (Tachyeres pteneres), delfines australes (Lagenorhynchus australis), pingüinos de Magallanes (Spheniscus magellanicus), carancas (Chloephaga hybrida), cormoranes (Phalacrocorax magellanicus y Phalacrocorax brasilianus), gaviotín sudamericano (Sterna hirundinacea) y gaviotas. Se destaca el numero de eventos de mamíferos muertos en las carretas
 
 A pesar de las variabilidades climáticas inherentes a la zona y a los desafíos que presenta el entorno marino, las actividades se llevaron a cabo según lo planeado, dentro del marco de la seguridad en la navegación, concluyendo exitosamente. Esto aportara valiosa información para la comprensión y conservación de este importante ecosistema costero.
-
 :::
 
 ```{r}
 1 + 1
 ```
+
+![](images/Mapa%20natales_5.jpeg)
+
+Figura 1. Mapa del crucero
+
+![](WhatsApp%20Image%202023-09-06%20at%2013.03.25.jpeg){fig-alt="Figura 2. Operaciones en cubierta" fig-align="center" width="657" height="561"}
+
+Figura 2 Operaciones en cubierta
+
+![](WhatsApp%20Image%202023-09-06%20at%2012.41.03%20(2).jpeg){fig-align="center" width="643"}
+
+Figura 3. Operaciones en cubierta
+
+![](WhatsApp%20Image%202023-09-06%20at%2012.41.04.jpeg){fig-align="center" width="676"}
+
+Figura 4. Operaciones en cubierta
+
+![](WhatsApp%20Image%202023-09-06%20at%2012.41.05.jpeg){fig-align="center"}
+
+Figura 5. Operaciones en cubierta
+
+![](WhatsApp%20Image%202023-09-06%20at%2012.41.02.jpeg){fig-align="center"}
+
+Figura 6, caiquenes *(Chloephaga picta)* y carancas *(Chloephaga hybrida)*
+
+![](WhatsApp%20Image%202023-09-06%20at%2013.06.09.jpeg)
+
+Figura 7. Guanacos *(Lama guanicoe)*
+
+![](WhatsApp%20Image%202023-09-06%20at%2012.58.03.jpeg)
+
+Figura 8. condores *(Vultur gryphus)*
+
+![Figura 9. zorros *(Lycalopex culpaeus)*](WhatsApp%20Image%202023-09-06%20at%2012.41.00.jpeg)
