@@ -1,6 +1,7 @@
 ---
 title: "Finalización de actividades de terreno Campaña 2023 Proyecto Desempeño Ambiental de la Acuicultura en Chile y sus efectos en los ecosistemas de emplazamiento"
 format: pdf
+editor: visual
 ---
 
 ### Rodrigo Jaramillo^1^, Johana Ojeda ^1^, Marcela Toro ^2^, Miguel Vergara ^2^
