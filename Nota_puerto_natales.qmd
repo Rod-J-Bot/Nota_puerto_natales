@@ -40,15 +40,11 @@ En toda el área de movimientos terrestre y marítimo se realizaron observacione
 A pesar de las variabilidades climáticas inherentes a la zona y a los desafíos que presenta el entorno marino, las actividades se llevaron a cabo según lo planeado, dentro del marco de la seguridad en la navegación, concluyendo exitosamente. Esto aportara valiosa información para la comprensión y conservación de este importante ecosistema costero.
 :::
 
-```{r}
-1 + 1
-```
-
 ![](images/Mapa%20natales_5.jpeg)
 
 Figura 1. Mapa del crucero
 
-![](WhatsApp%20Image%202023-09-06%20at%2013.03.25.jpeg){fig-alt="Figura 2. Operaciones en cubierta" fig-align="center" width="657" height="561"}
+![](WhatsApp%20Image%202023-09-06%20at%2013.03.25.jpeg){fig-align="center" width="657" height="561"}
 
 Figura 2. Operaciones en cubierta
 
