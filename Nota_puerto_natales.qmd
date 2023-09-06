@@ -1,0 +1,49 @@
+---
+title: "Finalización de actividades de terreno Campaña 2023 Proyecto Desempeño Ambiental de la Acuicultura en Chile y sus efectos en los ecosistemas de emplazamiento"
+---
+
+
+### Rodrigo Jaramillo^1^, Johana Ojeda ^1^, Marcela Toro ^2^, Miguel Vergara ^2^
+
+^1^Instituto de Fomento Pesquero, Balmaceda 252 Puerto Montt
+
+^2^ Instituto de Fomento Pesquero, Ten Ten s/n Putemun, Castro
+
+
+:::Justify
+
+Dentro del marco del proyecto de Evaluación Ambiental de la Acuicultura en Chile y sus Impactos en los Ecosistemas de Emplazamiento, se llevó a cabo la ultima parte de las actividades de terreno correspondientes al área comprendida de golfo almirante Montt.
+
+En esta ocasión, el equipo de trabajo del crucero se enriqueció con la colaboración de investigadores del proyecto "Monitoreo y Modelación de la Variabilidad Espacial y Temporal de Procesos Oceanográficos en Canales y Fiordos Australes" desde la sede en Putemún. Juntos, llevaron a cabo actividades conjuntas de apoyo y operaciones en la cubierta del barco. Este equipo estuvo compuesto por los biólogos marinos Johana Ojeda y Rodrigo Jaramillo, así como por la oceanógrafa Marcela Toro y Miguel Vergara. Además, en las operaciones de cubierta se contó con la colaboración de 3 miembros de la tripulación del L/M "Don Antonio" de 34 TRG.
+
+
+## Descripción del Área de Golfo Almirante Montt
+
+El sistema de canales del Golfo Almirante Montt, que se extiende de oeste a este a lo largo de aproximadamente 15 millas marinas, presenta su menor ancho en dirección norte-sur, con una distancia de 4 millas. En este sistema convergen cuatro esteros importantes, los cuales desempeñan un papel fundamental en la configuración y dinámica de esta región costera. Estos esteros son:
+
+Estero Última Esperanza: Ubicado al noreste, es uno de los esteros más notables que se unen al Golfo Almirante Montt. Su nombre evoca un sentido de misterio y exploración, lo cual se debe a su rica historia y su importancia en la navegación y el comercio de la región.
+
+Estero Obstrucción: En el lado sur del golfo, el estero Obstrucción se entrelaza con el sistema de canales. Su nombre sugiere la naturaleza intrincada de esta zona, que históricamente presentaba desafíos para la navegación debido a su compleja geografía.
+
+Estero Poca Esperanza y Canal Valdés: Situado al suroeste, el estero Poca Esperanza se conecta con el Golfo Almirante Montt a través del canal Valdés. Esta interconexión entre estero y canal añade una dimensión única a la dinámica del área, influyendo en el intercambio de aguas y nutrientes.
+
+Estero Worsley: Al noroeste del golfo se encuentra el estero Worsley, que contribuye al flujo de agua y nutrientes en esta región. Su proximidad al mar y su papel en la ecología local hacen que sea un punto focal importante para la investigación científica.
+
+Canal Kirke: La navegación por este canal-angostura que comunica el área de los canales con las aguas provenientes del océano pacifico, es de navegación desafiante y técnica debido a las mareas y las corrientes las cuales se estiman en alcanzan normalmente de 8 a 10 nudos de intensidad máxima. Cabe recordar que el nombre de este canal proviene de las primeras prospecciones oceanográficas realizadas en la zona por el Capitán británico Pringle Stokes en la embarcación Beagle.
+
+
+## Actividades del crucero
+
+En esta ocasión, se llevó a cabo un recorrido que abarcó muestreos en 39 puntos con equipo CTD y 19 puntos de recolección de muestras de sedimentos utilizando draga van Veen. Estos muestreos son esenciales para comprender la dinámica química y biológica del área, así como para evaluar la salud del ecosistema marino. De manera significativa, se dedicaron 11 puntos específicos a la prospección de sedimentos, con el propósito de explorar áreas previamente menos estudiadas. También se realizó la inspección de la estación meteorológica instalada en la zona de Puerto Natales, la cual entrega información en línea para el proyecto Chonos.
+
+Estas acciones se realizaron en cumplimiento de los objetivos de ambos proyectos, que tienen como uno de sus enfoques principales el seguimiento de la variabilidad estacional de las condiciones químico-biológicas en el Golfo Almirante Montt. Las variables monitoreadas, como la temperatura, salinidad, oxígeno disuelto, nutrientes y otros parámetros, brindan una visión integral de los cambios que ocurren en el ecosistema marino.
+
+En toda el área de movimientos terrestre y marítimo se realizaron observaciones de mamíferos y aves patagónicos tales como: Guanacos (Lama guanicoe), Ñandues (Rhea pennata), caiquenes (Chloephaga picta) zorros (Lycalopex culpaeus), armadillos (Chaetophractus villosus), Flamencos (Phoenicopterus chilensis), mofeta patagonica (Conepatus humboldtii), condores (Vultur gryphus), Patos Quetros (Tachyeres pteneres), delfines australes (Lagenorhynchus australis), pingüinos de Magallanes (Spheniscus magellanicus), carancas (Chloephaga hybrida), cormoranes (Phalacrocorax magellanicus y Phalacrocorax brasilianus), gaviotín sudamericano (Sterna hirundinacea) y gaviotas. Se destaca el numero de eventos de mamíferos muertos en las carretas
+
+A pesar de las variabilidades climáticas inherentes a la zona y a los desafíos que presenta el entorno marino, las actividades se llevaron a cabo según lo planeado, dentro del marco de la seguridad en la navegación, concluyendo exitosamente. Esto aportara valiosa información para la comprensión y conservación de este importante ecosistema costero.
+
+:::
+
+```{r}
+1 + 1
+```
