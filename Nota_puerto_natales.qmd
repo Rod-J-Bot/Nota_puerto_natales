@@ -4,7 +4,7 @@ format: pdf
 editor: visual
 ---
 
-### Rodrigo Jaramillo^1^, Johana Ojeda ^1^, Marcela Toro ^2^, Miguel Vergara ^2^
+### Rodrigo Jaramillo Teufert^1^, Johana Ojeda ^1^, Marcela Toro ^2^, Miguel Vergara ^2^
 
 ^1^Instituto de Fomento Pesquero, Balmaceda 252 Puerto Montt
 
